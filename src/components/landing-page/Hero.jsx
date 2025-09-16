@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from "framer-motion";
-import { fadeIn, textVariant } from "../utils/motion";
+import { fadeIn, textVariant } from "../../utils/motion";
 import heroImage from '../assets/hero-image.png'
 
 const Hero = () => {
